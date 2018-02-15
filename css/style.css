@@ -1,0 +1,82 @@
+#box{
+  background-color:#ddccff;
+  display:block;
+  width:800px;
+}
+
+body{
+  background-color: #999999;
+  margin:50px;
+}
+
+#info{
+  margin:50px;
+  font-size: 20px;
+  text-align: left;
+  color: #595959;
+  line-height:2.0;
+  text-indent:3em;
+}
+
+#nav{
+  overflow: hidden;
+  background-color: #333;
+  top: 0;
+  width: 100%;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.header{
+  background-color: #ddccff;
+  color: ##666666;
+  padding-bottom: 40px;
+}
+
+#about{
+  background-color: #7733ff;
+  text-align:center;
+}
+
+.card-body{
+  text-align: center;
+  padding: 5px;
+}
+
+#image{
+  border-radius:45%;
+  width:100%;
+  height: auto;
+}
+
+#thumbnail{
+  background-color: #b3b3ff;
+  padding: 20px;
+}
+
+.card{
+  text-align:center;
+  padding: 10px;
+}
+
+#project{
+  background-color: #7733ff;
+  text-align:center;
+}
+
+#contact{
+  text-align: center;
+  background-color: #7733ff;
+}
+
+#email{
+  font-size:16px;
+}
+
+#link{
+  font-size:20px;
+}
